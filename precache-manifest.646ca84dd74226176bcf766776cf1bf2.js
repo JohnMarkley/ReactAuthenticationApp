@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/ReactAuthenticationApp/static/media/montserrat-light-webfont.6225f3ca.woff"
   },
   {
-    "revision": "2d695932eeb60fbde0df",
+    "revision": "22ff3afdb234d9795b92",
     "url": "/ReactAuthenticationApp/static/css/main.69fce966.chunk.css"
   },
   {
-    "revision": "6fedfc64a7bfbbb272c4e4d3b8597244",
-    "url": "/ReactAuthenticationApp/static/media/montserrat-regular-webfont.6fedfc64.svg"
+    "revision": "8cde2a0e8a4a698a32a3b1c295b9fa8b",
+    "url": "/ReactAuthenticationApp/static/media/montserrat-light-webfont.8cde2a0e.svg"
   },
   {
     "revision": "37c03e7ae77d0c020cb5",
@@ -36,12 +36,12 @@ self.__precacheManifest = [
     "url": "/ReactAuthenticationApp/static/media/sign-on-widget-spinner.eea28db2.gif"
   },
   {
-    "revision": "7e72002067c9047c205fdb3521176196",
-    "url": "/ReactAuthenticationApp/static/media/checkbox-01.7e720020.png"
-  },
-  {
     "revision": "c837a09b25ad85d682483da65dd6420e",
     "url": "/ReactAuthenticationApp/static/media/radiobutton-01.c837a09b.png"
+  },
+  {
+    "revision": "7e72002067c9047c205fdb3521176196",
+    "url": "/ReactAuthenticationApp/static/media/checkbox-01.7e720020.png"
   },
   {
     "revision": "d5554fe41aed23e1e49f249f2f6bcfaa",
@@ -52,8 +52,8 @@ self.__precacheManifest = [
     "url": "/ReactAuthenticationApp/static/media/radiobutton-01@2x.dc47af40.png"
   },
   {
-    "revision": "2d695932eeb60fbde0df",
-    "url": "/ReactAuthenticationApp/static/js/main.2d695932.chunk.js"
+    "revision": "22ff3afdb234d9795b92",
+    "url": "/ReactAuthenticationApp/static/js/main.22ff3afd.chunk.js"
   },
   {
     "revision": "8f2822b73b5f9c106c6f2e0db820bcbb",
@@ -80,27 +80,27 @@ self.__precacheManifest = [
     "url": "/ReactAuthenticationApp/static/media/montserrat-light-webfont.70df5da6.ttf"
   },
   {
-    "revision": "69eac499e9311b03ed69199e62ea962e",
-    "url": "/ReactAuthenticationApp/static/media/montserrat-regular-webfont.69eac499.ttf"
-  },
-  {
     "revision": "362ffe720ba40be359302cab7f83c517",
     "url": "/ReactAuthenticationApp/static/media/montserrat-regular-webfont.362ffe72.eot"
+  },
+  {
+    "revision": "69eac499e9311b03ed69199e62ea962e",
+    "url": "/ReactAuthenticationApp/static/media/montserrat-regular-webfont.69eac499.ttf"
   },
   {
     "revision": "432df6c2318e100c9bf4b820be0c66e6",
     "url": "/ReactAuthenticationApp/static/media/okticon.432df6c2.svg"
   },
   {
-    "revision": "8cde2a0e8a4a698a32a3b1c295b9fa8b",
-    "url": "/ReactAuthenticationApp/static/media/montserrat-light-webfont.8cde2a0e.svg"
+    "revision": "6fedfc64a7bfbbb272c4e4d3b8597244",
+    "url": "/ReactAuthenticationApp/static/media/montserrat-regular-webfont.6fedfc64.svg"
   },
   {
     "revision": "37c03e7ae77d0c020cb5",
     "url": "/ReactAuthenticationApp/static/css/1.57139f07.chunk.css"
   },
   {
-    "revision": "5be28a1aa88b07e1ca302649c663315b",
+    "revision": "1364e7f287a667cd7c93ea46408078bb",
     "url": "/ReactAuthenticationApp/index.html"
   }
 ];
