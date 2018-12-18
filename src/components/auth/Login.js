@@ -43,7 +43,7 @@ export default withAuth(class Login extends Component {
   render() {
     if (this.state.authenticated === null) return null;
     return this.state.authenticated ?
-      <Redirect to={{ pathname: '/ReactAuthenticationApp' }}/> :
+      <Redirect to={{ pathname: '/' }}/> :
       <SignInWidget
         baseUrl={this.props.baseUrl}
         onSuccess={this.onSuccess}
