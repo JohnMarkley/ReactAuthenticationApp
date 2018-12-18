@@ -28,11 +28,11 @@ export default withAuth(
   }
 
     login = async() => {
-    this.props.auth.login('/');
+    this.props.auth.login('/ReactAuthenticationApp/');
   }
 
     logout = async() =>{
-    this.props.auth.logout('/');
+    this.props.auth.logout('/ReactAuthenticationApp/');
   }
 
   render() {

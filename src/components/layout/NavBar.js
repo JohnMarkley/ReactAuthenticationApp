@@ -20,8 +20,8 @@ function NavBar(props) {
             <Typography variant="h6" color="inherit" className={classes.grow}>
               Authentication App 
             </Typography>
-            <Button component={ Link } to="/" color="inherit">Home</Button>
-            <Button component={ Link } to="/Members" color="inherit">Member Area</Button>
+            <Button component={ Link } to="/ReactAuthenticationApp/" color="inherit">Home</Button>
+            <Button component={ Link } to="/ReactAuthenticationApp/Members" color="inherit">Member Area</Button>
           </Toolbar>
         </AppBar>
       </div>

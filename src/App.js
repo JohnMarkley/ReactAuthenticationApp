@@ -25,11 +25,11 @@ class App extends Component {
         <NavBar />
         
 
-        <Route path ="/" exact={true} component={Home} />
-        <SecureRoute path ="/Members" exact={true} component={Members} />
+        <Route path ="/ReactAuthenticationApp/" exact={true} component={Home} />
+        <SecureRoute path ="ReactAuthenticationApp/Members" exact={true} component={Members} />
 
-        <Route path='/login' render={() => <Login baseUrl='https://dev-645483.oktapreview.com' /> } />
-        <Route path='/implicit/callback' component={ImplicitCallback}/>
+        <Route path='ReactAuthenticationApp/login' render={() => <Login baseUrl='https://dev-645483.oktapreview.com' /> } />
+        <Route path='ReactAuthenticationApp/implicit/callback' component={ImplicitCallback}/>
       </div>
       </Security>
       </Router>
