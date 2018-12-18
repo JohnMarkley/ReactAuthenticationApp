@@ -1,16 +1,16 @@
 {
   "main.css": "/ReactAuthenticationApp/static/css/main.69fce966.chunk.css",
-  "main.js": "/ReactAuthenticationApp/static/js/main.a3ab85d5.chunk.js",
-  "main.js.map": "/ReactAuthenticationApp/static/js/main.a3ab85d5.chunk.js.map",
+  "main.js": "/ReactAuthenticationApp/static/js/main.2d695932.chunk.js",
+  "main.js.map": "/ReactAuthenticationApp/static/js/main.2d695932.chunk.js.map",
   "static/css/1.57139f07.chunk.css": "/ReactAuthenticationApp/static/css/1.57139f07.chunk.css",
   "static/js/1.37c03e7a.chunk.js": "/ReactAuthenticationApp/static/js/1.37c03e7a.chunk.js",
   "static/js/1.37c03e7a.chunk.js.map": "/ReactAuthenticationApp/static/js/1.37c03e7a.chunk.js.map",
   "runtime~main.js": "/ReactAuthenticationApp/static/js/runtime~main.b1bada23.js",
   "runtime~main.js.map": "/ReactAuthenticationApp/static/js/runtime~main.b1bada23.js.map",
-  "static/media/okta-sign-in.min.css": "/ReactAuthenticationApp/static/media/montserrat-regular-webfont.6fedfc64.svg",
-  "static/css/1.57139f07.chunk.css.map": "/ReactAuthenticationApp/static/css/1.57139f07.chunk.css.map",
+  "static/media/okta-sign-in.min.css": "/ReactAuthenticationApp/static/media/montserrat-light-webfont.8cde2a0e.svg",
   "static/css/main.69fce966.chunk.css.map": "/ReactAuthenticationApp/static/css/main.69fce966.chunk.css.map",
+  "static/css/1.57139f07.chunk.css.map": "/ReactAuthenticationApp/static/css/1.57139f07.chunk.css.map",
   "index.html": "/ReactAuthenticationApp/index.html",
-  "precache-manifest.08e66cea31df79aa00bd716f89d468cb.js": "/ReactAuthenticationApp/precache-manifest.08e66cea31df79aa00bd716f89d468cb.js",
+  "precache-manifest.b87b5b47ca465f3ceb183930e722c600.js": "/ReactAuthenticationApp/precache-manifest.b87b5b47ca465f3ceb183930e722c600.js",
   "service-worker.js": "/ReactAuthenticationApp/service-worker.js"
 }
