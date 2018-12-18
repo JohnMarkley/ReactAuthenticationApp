@@ -8,8 +8,8 @@ self.__precacheManifest = [
     "url": "/ReactAuthenticationApp/static/css/main.69fce966.chunk.css"
   },
   {
-    "revision": "8cde2a0e8a4a698a32a3b1c295b9fa8b",
-    "url": "/ReactAuthenticationApp/static/media/montserrat-light-webfont.8cde2a0e.svg"
+    "revision": "6fedfc64a7bfbbb272c4e4d3b8597244",
+    "url": "/ReactAuthenticationApp/static/media/montserrat-regular-webfont.6fedfc64.svg"
   },
   {
     "revision": "37c03e7ae77d0c020cb5",
@@ -36,12 +36,12 @@ self.__precacheManifest = [
     "url": "/ReactAuthenticationApp/static/media/sign-on-widget-spinner.eea28db2.gif"
   },
   {
-    "revision": "c837a09b25ad85d682483da65dd6420e",
-    "url": "/ReactAuthenticationApp/static/media/radiobutton-01.c837a09b.png"
-  },
-  {
     "revision": "7e72002067c9047c205fdb3521176196",
     "url": "/ReactAuthenticationApp/static/media/checkbox-01.7e720020.png"
+  },
+  {
+    "revision": "c837a09b25ad85d682483da65dd6420e",
+    "url": "/ReactAuthenticationApp/static/media/radiobutton-01.c837a09b.png"
   },
   {
     "revision": "d5554fe41aed23e1e49f249f2f6bcfaa",
@@ -72,10 +72,6 @@ self.__precacheManifest = [
     "url": "/ReactAuthenticationApp/static/media/okticon.5e1f49dd.ttf"
   },
   {
-    "revision": "a11330db59d1e0d7b0935e86754b86be",
-    "url": "/ReactAuthenticationApp/static/media/montserrat-light-webfont.a11330db.eot"
-  },
-  {
     "revision": "70df5da69722ec23336c227bf131d5ab",
     "url": "/ReactAuthenticationApp/static/media/montserrat-light-webfont.70df5da6.ttf"
   },
@@ -88,12 +84,16 @@ self.__precacheManifest = [
     "url": "/ReactAuthenticationApp/static/media/montserrat-regular-webfont.69eac499.ttf"
   },
   {
+    "revision": "a11330db59d1e0d7b0935e86754b86be",
+    "url": "/ReactAuthenticationApp/static/media/montserrat-light-webfont.a11330db.eot"
+  },
+  {
     "revision": "432df6c2318e100c9bf4b820be0c66e6",
     "url": "/ReactAuthenticationApp/static/media/okticon.432df6c2.svg"
   },
   {
-    "revision": "6fedfc64a7bfbbb272c4e4d3b8597244",
-    "url": "/ReactAuthenticationApp/static/media/montserrat-regular-webfont.6fedfc64.svg"
+    "revision": "8cde2a0e8a4a698a32a3b1c295b9fa8b",
+    "url": "/ReactAuthenticationApp/static/media/montserrat-light-webfont.8cde2a0e.svg"
   },
   {
     "revision": "37c03e7ae77d0c020cb5",
